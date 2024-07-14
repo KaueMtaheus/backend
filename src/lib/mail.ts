@@ -19,4 +19,5 @@ export async function getMailClient() {
     })
 
     return transporter
+    
 }
